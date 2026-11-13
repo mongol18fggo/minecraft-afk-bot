@@ -13,7 +13,7 @@
   "__comment_bot__": "=== BOT SETTINGS ===",
   
   "_comment_username": "The name your bot will use in the game.",
-  "botUsername": "ServerGuard",
+  "botUsername": "CoolGuy20II",
 
   "_comment_viewDistance": "Bot view range (optional, 1-3 is enough for AFK).",
   "viewDistance": 1
